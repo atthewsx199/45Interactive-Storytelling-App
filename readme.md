@@ -1,0 +1,1 @@
+Participate in immersive and dynamically evolving narratives characterized by decision-based branching, where your choices intricately shape and mold the unfolding storyline, fostering an engaging and interactive storytelling experience.

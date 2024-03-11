@@ -1,0 +1,26 @@
+{
+"name": "g45-k2cv",
+"version": "1.0.0",
+"description": "Engage in captivating and interactive stories with decision-based narratives.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/atthewsx199/45Interactive-Storytelling-App.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "atthewsx199",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
